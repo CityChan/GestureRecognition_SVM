@@ -8,5 +8,5 @@ I present a gestures recognition system based on OpenCV. The system contains dat
 **Argument.py**: add more images by filp and rotationwith different angles from original images. These arguments remain the same labels.<br>
 **Preprocessing.py**: preprocessing the collected images including computing segmentation, erosion, dilation and edge detection.<br>
 **FourierDescriptor.py**: Fourier Descriptor for edge detection.<br>
-**ImageToData.py**: convert processed images into vectors.
-**Training.py:** training the SVM model with data.
+**ImageToData.py**: convert processed images into vectors.<br><br>
+**Training.py:** training the SVM model with data.<br>
