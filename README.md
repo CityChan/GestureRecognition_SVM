@@ -1,2 +1,2 @@
 # GestureRecognition_SVM
-a course project for Digital Video
+This is a project in class Digital Video Processing
